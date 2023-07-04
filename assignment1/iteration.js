@@ -5,3 +5,4 @@ function fib(n){
     }
    return arr[n]
   }
+  console.log(fib(1000));

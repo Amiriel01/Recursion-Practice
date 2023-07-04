@@ -22,3 +22,5 @@ function merge(left, right) {
     }
     return [...result, ...left, ...right];
 }
+
+console.log();
